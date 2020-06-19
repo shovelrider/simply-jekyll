@@ -89,7 +89,7 @@ Netlify lets you automatically deploy your personal website on to the Internet w
 2. Once logged in, click the “New site from Git” button
 3. On the next page, select GitHub as the continuous deployment provider (you may need to authorize the connection, in which case, approve it)
 4. On the next page, select your website repository from the list
-5. On the next page, keep the default settings, and click on “Deploy site”.
+5. On the next page, set buld command to "jekyll build", and click on “Deploy site”.
 
 That was easy! We’re almost done.
 
